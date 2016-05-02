@@ -1,0 +1,926 @@
+{
+    "application/dif+xml": {
+        "calorie": {
+            "": 7.0, 
+            "count": 15, 
+            "max": 14.0, 
+            "min": 13.0, 
+            "range": 1.0
+        }, 
+        "inch": {
+            "": 3.0, 
+            "count": 2, 
+            "max": 8.0, 
+            "min": 8.0, 
+            "range": 0.0
+        }, 
+        "metre": {
+            "": 1.0, 
+            "count": 19, 
+            "max": 214.0, 
+            "min": 10.0, 
+            "range": 204.0
+        }, 
+        "other": {
+            "": 1.0, 
+            "count": 53, 
+            "max": 360.0, 
+            "min": 10.0, 
+            "range": 350.0
+        }
+    }, 
+    "application/dita+xml; format=concept": {
+        "calorie": {
+            "count": 2, 
+            "max": 1.0, 
+            "min": 1.0, 
+            "range": 0.0
+        }, 
+        "feet": {
+            "count": 6, 
+            "max": 20.0, 
+            "min": 5.0, 
+            "range": 15.0
+        }, 
+        "gram": {
+            "": 16.0, 
+            "count": 8, 
+            "max": 2755.0, 
+            "min": 2755.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "": -2.0, 
+            "count": 10, 
+            "max": 1996.0, 
+            "min": 41.0, 
+            "range": 1955.0
+        }, 
+        "joule": {
+            "": 3.0, 
+            "count": 2, 
+            "max": 16.0, 
+            "min": 16.0, 
+            "range": 0.0
+        }, 
+        "metre": {
+            "": 3.0, 
+            "count": 54, 
+            "max": 1400.0, 
+            "min": 4.0, 
+            "range": 1396.0
+        }, 
+        "other": {
+            "": 1.0, 
+            "count": 18, 
+            "max": 120.0, 
+            "min": 4.0, 
+            "range": 116.0
+        }
+    }, 
+    "application/vnd.google-earth.kml+xml": {
+        "calorie": {
+            "": -5.21, 
+            "count": 363, 
+            "max": 150.0, 
+            "min": 0.38, 
+            "range": 149.62
+        }, 
+        "feet": {
+            "count": 171, 
+            "max": 20098.0, 
+            "min": -59.0, 
+            "range": 20157.0
+        }, 
+        "gram": {
+            "count": 4, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "count": 467, 
+            "max": 1006030.0, 
+            "min": -8.0, 
+            "range": 1006038.0
+        }, 
+        "joule": {
+            "count": 5, 
+            "max": 10.1016, 
+            "min": 3.0, 
+            "range": 7.1015999999999995
+        }, 
+        "metre": {
+            "": 0.0, 
+            "count": 448, 
+            "max": 850.0, 
+            "min": 1.0, 
+            "range": 849.0
+        }, 
+        "other": {
+            "": 8.0, 
+            "count": 41, 
+            "max": 384.0, 
+            "min": 12.0, 
+            "range": 372.0
+        }
+    }, 
+    "application/vnd.ms-excel.sheet.4": {
+        "feet": {
+            "count": 2, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }
+    }, 
+    "application/x-tar": {
+        "gram": {
+            "count": 1, 
+            "max": 4.0, 
+            "min": 4.0, 
+            "range": 0.0
+        }
+    }, 
+    "application/xslt+xml": {
+        "calorie": {
+            "count": 14, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "gram": {
+            "count": 4, 
+            "max": 2003.0, 
+            "min": 2003.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "count": 1, 
+            "max": 1.0, 
+            "min": 1.0, 
+            "range": 0.0
+        }, 
+        "metre": {
+            "": 1.0, 
+            "count": 3, 
+            "max": 1.5, 
+            "min": 1.5, 
+            "range": 0.0
+        }
+    }, 
+    "application/zip": {
+        "calorie": {
+            "count": 1, 
+            "max": 14.0, 
+            "min": 14.0, 
+            "range": 0.0
+        }
+    }, 
+    "message/rfc822": {
+        "calorie": {
+            "": 0.0, 
+            "count": 123, 
+            "max": 666.0, 
+            "min": 1.0, 
+            "range": 665.0
+        }, 
+        "feet": {
+            "count": 59, 
+            "max": 630.0, 
+            "min": 0.0, 
+            "range": 630.0
+        }, 
+        "gram": {
+            "": 4.0, 
+            "count": 59, 
+            "max": 16186.0, 
+            "min": 467.0, 
+            "range": 15719.0
+        }, 
+        "inch": {
+            "": 0.001, 
+            "count": 72, 
+            "max": 4395.0, 
+            "min": 1.0, 
+            "range": 4394.0
+        }, 
+        "joule": {
+            "": 4.0, 
+            "count": 134, 
+            "max": 338.0, 
+            "min": 10.1016, 
+            "range": 327.8984
+        }, 
+        "litre": {
+            "": 2.0, 
+            "count": 93, 
+            "max": 625.0, 
+            "min": 8.0, 
+            "range": 617.0
+        }, 
+        "metre": {
+            "": 1.2, 
+            "count": 268, 
+            "max": 2076.5, 
+            "min": 5.0, 
+            "range": 2071.5
+        }, 
+        "other": {
+            "": 4326.0, 
+            "count": 45, 
+            "max": 8020.0, 
+            "min": 5121.0, 
+            "range": 2899.0
+        }, 
+        "pound": {
+            "count": 2, 
+            "max": 0.0, 
+            "min": 0.0, 
+            "range": 0.0
+        }, 
+        "quart": {
+            "": 4.0, 
+            "count": 3, 
+            "max": 86.0, 
+            "min": 86.0, 
+            "range": 0.0
+        }, 
+        "second": {
+            "": 71237.51, 
+            "count": 3, 
+            "max": 84073.0, 
+            "min": 84073.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=big5": {
+        "calorie": {
+            "": 3.0, 
+            "count": 3, 
+            "max": 7.0, 
+            "min": 7.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "": 0.0, 
+            "count": 16, 
+            "max": 2312.0, 
+            "min": 5.0, 
+            "range": 2307.0
+        }, 
+        "metre": {
+            "count": 1, 
+            "max": 1148.0, 
+            "min": 1148.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=gb18030": {
+        "calorie": {
+            "": 0.0, 
+            "count": 9, 
+            "max": 66.0, 
+            "min": 7.0, 
+            "range": 59.0
+        }, 
+        "inch": {
+            "": 5.0, 
+            "count": 7, 
+            "max": 2312.0, 
+            "min": 2312.0, 
+            "range": 0.0
+        }, 
+        "metre": {
+            "": 1.5, 
+            "count": 4, 
+            "max": 90.0, 
+            "min": 28.5, 
+            "range": 61.5
+        }
+    }, 
+    "text/plain; charset=gb2312": {
+        "calorie": {
+            "count": 1, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "": 128.0, 
+            "count": 5, 
+            "max": 2312.0, 
+            "min": 2312.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=ibm866": {
+        "calorie": {
+            "count": 37, 
+            "max": 3.0, 
+            "min": 2.0, 
+            "range": 1.0
+        }, 
+        "feet": {
+            "": 550.0, 
+            "count": 16, 
+            "max": 1727.0, 
+            "min": 900.0, 
+            "range": 827.0
+        }, 
+        "gram": {
+            "count": 24, 
+            "max": 465.0, 
+            "min": 465.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "": -8.0, 
+            "count": 216, 
+            "max": 298864060274861.0, 
+            "min": -1.0, 
+            "range": 298864060274862.0
+        }, 
+        "metre": {
+            "count": 2, 
+            "max": 4.0, 
+            "min": 1.0, 
+            "range": 3.0
+        }, 
+        "other": {
+            "count": 3, 
+            "max": 41.0, 
+            "min": 4.0, 
+            "range": 37.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-1": {
+        "calorie": {
+            "": 2.0, 
+            "count": 123180, 
+            "max": 7.8901234567890125e+65, 
+            "min": 3.0, 
+            "range": 7.8901234567890125e+65
+        }, 
+        "celsius": {
+            "count": 2, 
+            "max": 237.0, 
+            "min": -231.1, 
+            "range": 468.1
+        }, 
+        "cubic": {
+            "count": 15, 
+            "max": 3300.0, 
+            "min": 0.0, 
+            "range": 3300.0
+        }, 
+        "cup": {
+            "count": 25, 
+            "max": 5.0, 
+            "min": 1.0, 
+            "range": 4.0
+        }, 
+        "fahrenheit": {
+            "count": 1, 
+            "max": -384.1, 
+            "min": -384.1, 
+            "range": 0.0
+        }, 
+        "feet": {
+            "": 8.0, 
+            "count": 44806, 
+            "max": 1.424617609326299e+31, 
+            "min": 1994.0, 
+            "range": 1.424617609326299e+31
+        }, 
+        "gallon": {
+            "": 0.0, 
+            "count": 9, 
+            "max": 800.0, 
+            "min": 25.0, 
+            "range": 775.0
+        }, 
+        "gram": {
+            "": 0.0, 
+            "count": 11442, 
+            "max": 2147483647.0, 
+            "min": 2007.0, 
+            "range": 2147481640.0
+        }, 
+        "inch": {
+            "": 0.0, 
+            "count": 699870, 
+            "max": 1.0001424052702305e+40, 
+            "min": 2.0, 
+            "range": 1.0001424052702305e+40
+        }, 
+        "joule": {
+            "": 0.0, 
+            "count": 9019, 
+            "max": 902122.0, 
+            "min": 1.0, 
+            "range": 902121.0
+        }, 
+        "kelvin": {
+            "": 2006.0, 
+            "count": 8, 
+            "max": 2011.0, 
+            "min": 2010.0, 
+            "range": 1.0
+        }, 
+        "litre": {
+            "": 0.0, 
+            "count": 10491, 
+            "max": 8000000000000000.0, 
+            "min": 2.0, 
+            "range": 7999999999999998.0
+        }, 
+        "metre": {
+            "": 74.923, 
+            "count": 161700, 
+            "max": 1.4285714285714284e+16, 
+            "min": 1678.0, 
+            "range": 1.4285714285712606e+16
+        }, 
+        "mile": {
+            "count": 274, 
+            "max": 5000.0, 
+            "min": 0.0, 
+            "range": 5000.0
+        }, 
+        "other": {
+            "": 1.0, 
+            "count": 9790, 
+            "max": 31536000.0, 
+            "min": 10.0, 
+            "range": 31535990.0
+        }, 
+        "ounce": {
+            "": 2.0, 
+            "count": 150, 
+            "max": 8888888.0, 
+            "min": 2.1, 
+            "range": 8888885.9
+        }, 
+        "pint": {
+            "count": 1, 
+            "max": 2.0, 
+            "min": 2.0, 
+            "range": 0.0
+        }, 
+        "pound": {
+            "": 1.0, 
+            "count": 107, 
+            "max": 5000.0, 
+            "min": 2.2, 
+            "range": 4997.8
+        }, 
+        "quart": {
+            "": 6.0, 
+            "count": 22, 
+            "max": 84.0, 
+            "min": 10.0, 
+            "range": 74.0
+        }, 
+        "second": {
+            "": 0.02, 
+            "count": 402, 
+            "max": 86400.0, 
+            "min": 2.0, 
+            "range": 86398.0
+        }, 
+        "spoon": {
+            "count": 4, 
+            "max": 56.0, 
+            "min": 56.0, 
+            "range": 0.0
+        }, 
+        "ton": {
+            "count": 1, 
+            "max": 5.3, 
+            "min": 5.3, 
+            "range": 0.0
+        }, 
+        "yard": {
+            "": 3.0, 
+            "count": 35, 
+            "max": 900.0, 
+            "min": 6.0, 
+            "range": 894.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-15": {
+        "calorie": {
+            "count": 2, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "feet": {
+            "count": 16, 
+            "max": 0.0, 
+            "min": 0.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "count": 6, 
+            "max": 1.0, 
+            "min": -8.0, 
+            "range": 9.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-2": {
+        "inch": {
+            "count": 12, 
+            "max": 220.0, 
+            "min": -8859.0, 
+            "range": 9079.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-6": {
+        "calorie": {
+            "count": 2, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "count": 1, 
+            "max": -8859.0, 
+            "min": -8859.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-7": {
+        "inch": {
+            "count": 1, 
+            "max": 2312.0, 
+            "min": 2312.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=iso-8859-8": {
+        "calorie": {
+            "": 2.0, 
+            "count": 13, 
+            "max": 7.0, 
+            "min": 3.0, 
+            "range": 4.0
+        }, 
+        "feet": {
+            "count": 42, 
+            "max": 404.0, 
+            "min": -33523145.0, 
+            "range": 33523549.0
+        }, 
+        "inch": {
+            "count": 12, 
+            "max": 404.0, 
+            "min": -33523145.0, 
+            "range": 33523549.0
+        }, 
+        "metre": {
+            "count": 5, 
+            "max": 1.0, 
+            "min": 0.1, 
+            "range": 0.9
+        }, 
+        "other": {
+            "count": 3, 
+            "max": 30.0, 
+            "min": 30.0, 
+            "range": 0.0
+        }
+    }, 
+    "text/plain; charset=shift_jis": {
+        "calorie": {
+            "count": 3, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "feet": {
+            "count": 2, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "inch": {
+            "count": 2, 
+            "max": 3.0, 
+            "min": 3.0, 
+            "range": 0.0
+        }, 
+        "metre": {
+            "": -3.0, 
+            "count": 11, 
+            "max": 5.0, 
+            "min": 0.0, 
+            "range": 5.0
+        }
+    }, 
+    "text/plain; charset=utf-16le": {
+        "calorie": {
+            "count": 7, 
+            "max": 1979.0, 
+            "min": 3.0, 
+            "range": 1976.0
+        }, 
+        "feet": {
+            "count": 4, 
+            "max": 83.0, 
+            "min": 0.0, 
+            "range": 83.0
+        }, 
+        "gram": {
+            "count": 3, 
+            "max": 615.0, 
+            "min": 171.0, 
+            "range": 444.0
+        }, 
+        "inch": {
+            "": -8859.0, 
+            "count": 775, 
+            "max": 663399.0, 
+            "min": -8.0, 
+            "range": 663407.0
+        }, 
+        "litre": {
+            "count": 12, 
+            "max": 4853.0, 
+            "min": 5.0, 
+            "range": 4848.0
+        }, 
+        "metre": {
+            "": 15.0, 
+            "count": 9, 
+            "max": 927.0, 
+            "min": 848.0, 
+            "range": 79.0
+        }, 
+        "other": {
+            "count": 5, 
+            "max": 7.0, 
+            "min": -1.4, 
+            "range": 8.4
+        }
+    }, 
+    "text/plain; charset=utf-8": {
+        "calorie": {
+            "": 2.0, 
+            "count": 10290, 
+            "max": 5.3427732000000285e+20, 
+            "min": 10.5194, 
+            "range": 5.3427732000000285e+20
+        }, 
+        "cubic": {
+            "count": 34, 
+            "max": 900.0, 
+            "min": 0.0, 
+            "range": 900.0
+        }, 
+        "cup": {
+            "count": 1, 
+            "max": 10.0, 
+            "min": 10.0, 
+            "range": 0.0
+        }, 
+        "fahrenheit": {
+            "count": 1, 
+            "max": 84.2, 
+            "min": 84.2, 
+            "range": 0.0
+        }, 
+        "feet": {
+            "": -23479674.0, 
+            "count": 15860, 
+            "max": 5.224996974445831e+18, 
+            "min": 1.0, 
+            "range": 5.224996974445831e+18
+        }, 
+        "gallon": {
+            "": 0.0, 
+            "count": 48, 
+            "max": 1270.0, 
+            "min": 1.0, 
+            "range": 1269.0
+        }, 
+        "gram": {
+            "": 4.0, 
+            "count": 2652, 
+            "max": 613752.0, 
+            "min": 70.0, 
+            "range": 613682.0
+        }, 
+        "inch": {
+            "": 1.0, 
+            "count": 452548, 
+            "max": 1.0001424052702304e+40, 
+            "min": 2012.0, 
+            "range": 1.0001424052702304e+40
+        }, 
+        "joule": {
+            "": 3.0, 
+            "count": 1678, 
+            "max": 54248643.0, 
+            "min": 10.1016, 
+            "range": 54248632.8984
+        }, 
+        "litre": {
+            "": 3.0, 
+            "count": 3676, 
+            "max": 980343.0, 
+            "min": 2007.0, 
+            "range": 978336.0
+        }, 
+        "metre": {
+            "": 1.0, 
+            "count": 22192, 
+            "max": 4000000019.0, 
+            "min": 2.0, 
+            "range": 4000000017.0
+        }, 
+        "mile": {
+            "": 2.0, 
+            "count": 1169, 
+            "max": 5000.0, 
+            "min": 120.0, 
+            "range": 4880.0
+        }, 
+        "other": {
+            "": 5.0, 
+            "count": 5993, 
+            "max": 20080317.0, 
+            "min": 900.0, 
+            "range": 20079417.0
+        }, 
+        "ounce": {
+            "": 0.0, 
+            "count": 8, 
+            "max": 218.0, 
+            "min": 218.0, 
+            "range": 0.0
+        }, 
+        "pint": {
+            "": 1.0, 
+            "count": 17, 
+            "max": 10.0, 
+            "min": 3.0, 
+            "range": 7.0
+        }, 
+        "pound": {
+            "": 0.0, 
+            "count": 49, 
+            "max": 1200.0, 
+            "min": 4.0, 
+            "range": 1196.0
+        }, 
+        "quart": {
+            "count": 9, 
+            "max": 43.0, 
+            "min": -16.0, 
+            "range": 59.0
+        }, 
+        "second": {
+            "": 0.1, 
+            "count": 47, 
+            "max": 6039.84, 
+            "min": 0.5, 
+            "range": 6039.34
+        }, 
+        "spoon": {
+            "count": 3, 
+            "max": 56.0, 
+            "min": 56.0, 
+            "range": 0.0
+        }, 
+        "ton": {
+            "count": 1, 
+            "max": 200.0, 
+            "min": 200.0, 
+            "range": 0.0
+        }, 
+        "yard": {
+            "": 7.0, 
+            "count": 5, 
+            "max": 300.0, 
+            "min": 100.0, 
+            "range": 200.0
+        }
+    }, 
+    "text/plain; charset=windows-1252": {
+        "calorie": {
+            "": 7.0, 
+            "count": 9613, 
+            "max": 1.195028201415411e+16, 
+            "min": 10.5194, 
+            "range": 1.19502820141541e+16
+        }, 
+        "celsius": {
+            "count": 1, 
+            "max": 0.0, 
+            "min": 0.0, 
+            "range": 0.0
+        }, 
+        "cubic": {
+            "": 21.39, 
+            "count": 13, 
+            "max": 625.0, 
+            "min": 43.0, 
+            "range": 582.0
+        }, 
+        "feet": {
+            "": 8.0, 
+            "count": 11764, 
+            "max": 6.35543334436679e+17, 
+            "min": 9.0, 
+            "range": 6.35543334436679e+17
+        }, 
+        "gallon": {
+            "count": 1, 
+            "max": 0.0, 
+            "min": 0.0, 
+            "range": 0.0
+        }, 
+        "gram": {
+            "": 0.0, 
+            "count": 2630, 
+            "max": 1.231078201413911e+16, 
+            "min": 4.0, 
+            "range": 1.2310782014139106e+16
+        }, 
+        "inch": {
+            "": -8.0, 
+            "count": 54395, 
+            "max": 123480267840925.0, 
+            "min": 0.0, 
+            "range": 123480267840925.0
+        }, 
+        "joule": {
+            "": 2.0, 
+            "count": 1801, 
+            "max": 1.204023201423111e+16, 
+            "min": 5.0, 
+            "range": 1.2040232014231104e+16
+        }, 
+        "kelvin": {
+            "count": 3, 
+            "max": 2010.0, 
+            "min": 2008.0, 
+            "range": 2.0
+        }, 
+        "litre": {
+            "": 2.0, 
+            "count": 2648, 
+            "max": 1.159037201417511e+16, 
+            "min": 3.0, 
+            "range": 1.1590372014175108e+16
+        }, 
+        "metre": {
+            "": 1.0, 
+            "count": 40859, 
+            "max": 1.200025201432111e+16, 
+            "min": 3842.0, 
+            "range": 1.2000252014317268e+16
+        }, 
+        "mile": {
+            "": 65.0, 
+            "count": 372, 
+            "max": 2000.0, 
+            "min": 200.0, 
+            "range": 1800.0
+        }, 
+        "other": {
+            "": 2.0, 
+            "count": 755, 
+            "max": 13286.0, 
+            "min": 60.0, 
+            "range": 13226.0
+        }, 
+        "pound": {
+            "": 0.6, 
+            "count": 66, 
+            "max": 3600.0, 
+            "min": 10.0, 
+            "range": 3590.0
+        }, 
+        "quart": {
+            "count": 1, 
+            "max": 6.0, 
+            "min": 6.0, 
+            "range": 0.0
+        }, 
+        "second": {
+            "": 0.1, 
+            "count": 78, 
+            "max": 1000.0, 
+            "min": 1.0, 
+            "range": 999.0
+        }, 
+        "yard": {
+            "count": 12, 
+            "max": 550.0, 
+            "min": 10.0, 
+            "range": 540.0
+        }
+    }
+}

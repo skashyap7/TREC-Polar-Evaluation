@@ -1,0 +1,25 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":4,
+    "params":{
+      "q":"*:*",
+      "indent":"true",
+      "fl":"content-type,measurements",
+      "start":"0",
+      "fq":"measurements:['' TO *]",
+      "rows":"1000",
+      "wt":"json"}},
+  "response":{"numFound":41598,"start":0,"docs":[
+      {
+        "measurements":["[10-,min,time,other]","[20,cm,distance,meter]"],
+        "content-type":"application/dif+xml"},
+      {
+        "measurements":["1",
+          "Minute",
+          "time",
+          "other"],
+        "content-type":"application/pdf"}
+	]
+	}
+}
