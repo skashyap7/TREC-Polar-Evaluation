@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body{
+	width:1200px;
+	margin:100px auto;
+}
+svg text{
+	font-size:12px;
+}
+rect{
+	shape-rendering:crispEdges;
+}
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="../js/team24/team24_task4.js"></script>
+<script>
+var sales_data=[
+["text-html","LOCATION","400","297"],
+["text-html","PERSON","374","128"],
+["text-html","ORGANIZATION","198","167"],
+["text-html","DATE","335","285"],
+["text-html","TIME","780","540"],
+["text-html","PERCENTAGE","95","40"],
+["text-html","MONEY","40","38"],
+["text-plain","LOCATION","18","11"],
+["text-plain","PERSON","18","9"],
+["text-plain","ORGANIZATION","18","9"],
+["text-plain","DATE","18","13"],
+["text-plain","TIME","18","6"],
+["text-plain","PERCENTAGE","18","5"],
+["text-plain","MONEY","18","3"],
+["application/xhtml+xml","LOCATION","18","12"],
+["application/xhtml+xml","PERSON","18","11"],
+["application/xhtml+xml","ORGANIZATION","18","9"],
+["application/xhtml+xml","DATE","18","15"],
+["application/xhtml+xml","TIME","18","5"],
+["application/xhtml+xml","PERCENTAGE","18","7"],
+["application/xhtml+xml","MONEY","18","5"],
+];
+var width = 1600, height = 610, margin ={b:30, t:40, l:170, r:50};
+
+var svg = d3.select("body")
+	.append("svg").attr('width',width).attr('height',(height+margin.b+margin.t))
+	.append("g").attr("transform","translate("+ margin.l+","+margin.t+")");
+
+var data = [ 
+	{data:bP.partData(sales_data,2), id:'SalesAttempts', header:["Channel","State", "Sales Attempts"]},
+];
+
+bP.draw(data, svg);
+
+</script>
+</body>
