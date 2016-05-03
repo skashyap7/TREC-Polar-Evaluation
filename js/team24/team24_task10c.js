@@ -27,7 +27,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 //var data = document.getElementById('data').innerHTML;
-d3.json("../../data/team24/team24_task10c.json", function(data) {
+d3.json("http://skashyap7.github.io/TREC-Polar-Evaluation/data/team24/team24_task10c.json", function(data) {
     root = data;
     root.x0 = height / 2;
     root.y0 = 0;
