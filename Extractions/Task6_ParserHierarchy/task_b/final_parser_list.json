@@ -1,0 +1,338 @@
+{
+    "DefaultParser/asm.ClassParser": {
+        "application/java-vm": {
+            "avg": 9.170525929662066e-05
+        }
+    }, 
+    "DefaultParser/dif.DIFParser": {
+        "application/dif+xml": {
+            "avg": 0.00994428620363504
+        }
+    }, 
+    "DefaultParser/executable.ExecutableParser": {
+        "application/x-executable/application/x-executable": {
+            "avg": 3.6410636294154056e-05
+        }, 
+        "application/x-msdownload/application/x-msdownload": {
+            "avg": 7.06188476642997e-05
+        }, 
+        "application/x-msdownload; format=pe/application/x-msdownload": {
+            "avg": 0.00014085168317761398
+        }, 
+        "application/x-msdownload; format=pe32/application/x-msdownload": {
+            "avg": 1.505237222041222e-05
+        }
+    }, 
+    "DefaultParser/feed.FeedParser": {
+        "application/atom+xml": {
+            "avg": 0.0005236443264922375
+        }, 
+        "application/rss+xml": {
+            "avg": 0.0005966837685981277
+        }
+    }, 
+    "DefaultParser/font.TrueTypeParser": {
+        "application/x-font-ttf": {
+            "avg": 0.0002622072535739026
+        }
+    }, 
+    "DefaultParser/gdal.GDALParser": {
+        "application/x-grib": {
+            "avg": 0.0007389162561576355
+        }
+    }, 
+    "DefaultParser/hdf.HDFParser": {
+        "application/x-hdf": {
+            "avg": 4.5156983947814604e-06
+        }
+    }, 
+    "DefaultParser/html.HtmlParser": {
+        "text/html; charset=Big5": {
+            "avg": 0.00022893620974538312
+        }, 
+        "text/html; charset=EUC-JP": {
+            "avg": 0.0009505488287880503
+        }, 
+        "text/html; charset=EUC-KR": {
+            "avg": 0.00016662753444266878
+        }, 
+        "text/html; charset=GB18030": {
+            "avg": 0.0006148511372836564
+        }, 
+        "text/html; charset=GB2312": {
+            "avg": 0.00043118362566873386
+        }, 
+        "text/html; charset=GBK": {
+            "avg": 0.0007275512843114707
+        }, 
+        "text/html; charset=IBM855": {
+            "avg": 0.0009712273886123588
+        }, 
+        "text/html; charset=ISO-8859-1": {
+            "avg": 0.0007077461269165572
+        }, 
+        "text/html; charset=ISO-8859-15": {
+            "avg": 0.00042949176807444524
+        }, 
+        "text/html; charset=ISO-8859-2": {
+            "avg": 0.007027406886858749
+        }, 
+        "text/html; charset=ISO-8859-7": {
+            "avg": 0.000843348091924942
+        }, 
+        "text/html; charset=KOI8-R": {
+            "avg": 0.0006239762889010217
+        }, 
+        "text/html; charset=Shift_JIS": {
+            "avg": 0.0004999038646414151
+        }, 
+        "text/html; charset=US-ASCII": {
+            "avg": 0.000749522029214
+        }, 
+        "text/html; charset=UTF-16": {
+            "avg": 0.0003106534513598446
+        }, 
+        "text/html; charset=UTF-8": {
+            "avg": 0.00036609087096885966
+        }, 
+        "text/html; charset=windows-1250": {
+            "avg": 0.0011586265009479672
+        }, 
+        "text/html; charset=windows-1251": {
+            "avg": 0.0004407726280198
+        }, 
+        "text/html; charset=windows-1252": {
+            "avg": 0.0006761668277785248
+        }, 
+        "text/html; charset=windows-1255": {
+            "avg": 0.0006672449456195369
+        }, 
+        "text/html; charset=windows-1256": {
+            "avg": 0.0005373455131649651
+        }, 
+        "text/html; charset=x-MacCyrillic": {
+            "avg": 0.0009500059375371097
+        }, 
+        "text/html; charset=x-MacRoman": {
+            "avg": 0.00036264732547597464
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]": {
+        "message/rfc822/application/xhtml+xml; charset=ISO-8859-1": {
+            "avg": 0.011892963330029732
+        }, 
+        "message/rfc822/text/html; charset=ISO-8859-1": {
+            "avg": 0.00025016293506955185
+        }, 
+        "message/rfc822/text/html; charset=US-ASCII": {
+            "avg": 0.00016937669376693767
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/[DefaultParser, image.ImageParser]/[DefaultParser, jpeg.JpegParser]/[DefaultParser, jpeg.JpegParser]": {
+        "message/rfc822/text/html; charset=UTF-8/image/gif/image/jpeg/image/jpeg": {
+            "avg": 0.0010528564453125
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/[DefaultParser, mail.RFC822Parser]": {
+        "message/rfc822/text/html; charset=US-ASCII/message/rfc822": {
+            "avg": 0.000161404867970818
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/org.apache.tika.server.resource.TikaResource$1/html.HtmlParser/[DefaultParser, image.ImageParser]": {
+        "message/rfc822/text/html; charset=US-ASCII/application/vnd.openxmlformats-officedocument/application/xml/image/png": {
+            "avg": 0.00023135295206366834
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/org.apache.tika.server.resource.TikaResource$1/html.HtmlParser/[DefaultParser, jpeg.JpegParser]": {
+        "message/rfc822/text/html; charset=US-ASCII/application/vnd.openxmlformats-officedocument/application/xml/image/jpeg": {
+            "avg": 0.0006083167822641863
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/org.apache.tika.server.resource.TikaResource$1/html.HtmlParser/[DefaultParser, jpeg.JpegParser]/[DefaultParser, image.ImageParser]": {
+        "message/rfc822/text/html; charset=US-ASCII/application/vnd.openxmlformats-officedocument/application/xml/image/jpeg/image/png": {
+            "avg": 0.0004627059041273367
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/org.apache.tika.server.resource.TikaResource$1/html.HtmlParser/[DefaultParser, jpeg.JpegParser]/[DefaultParser, jpeg.JpegParser]": {
+        "message/rfc822/text/html; charset=US-ASCII/application/vnd.openxmlformats-officedocument/application/xml/image/jpeg/image/jpeg": {
+            "avg": 0.0004338045276798275
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, html.HtmlParser]/org.apache.tika.server.resource.TikaResource$1/html.HtmlParser/html.HtmlParser": {
+        "message/rfc822/text/html; charset=US-ASCII/application/vnd.openxmlformats-officedocument/application/xml/application/xml": {
+            "avg": 0.00031982894742727804
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, txt.TXTParser]": {
+        "message/rfc822/text/plain; charset=ISO-8859-1": {
+            "avg": 0.0038845979100408904
+        }, 
+        "message/rfc822/text/plain; charset=US-ASCII": {
+            "avg": 0.0022230391694788507
+        }, 
+        "message/rfc822/text/plain; charset=UTF-8": {
+            "avg": 0.0910344827586207
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, txt.TXTParser]/[DefaultParser, mail.RFC822Parser]": {
+        "message/rfc822/text/plain; charset=UTF-8/message/rfc822": {
+            "avg": 0.01662049861495845
+        }
+    }, 
+    "DefaultParser/mail.RFC822Parser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]": {
+        "message/rfc822/text/plain; charset=ISO-8859-1/text/plain; charset=US-ASCII": {
+            "avg": 0.0005480703356930806
+        }, 
+        "message/rfc822/text/plain; charset=US-ASCII/text/plain; charset=US-ASCII": {
+            "avg": 0.0010294117647058824
+        }
+    }, 
+    "DefaultParser/pkg.CompressorParser/org.apache.tika.server.resource.TikaResource$1": {
+        "application/x-bzip2/application/octet-stream": {
+            "avg": 9.1552734375e-05
+        }
+    }, 
+    "DefaultParser/pkg.CompressorParser/org.apache.tika.server.resource.TikaResource$1/[DefaultParser, pkg.PackageParser]": {
+        "application/x-bzip2/application/vnd.adobe.aftereffects.project/application/x-tar": {
+            "avg": 0.000213623046875
+        }
+    }, 
+    "DefaultParser/pkg.CompressorParser/org.apache.tika.server.resource.TikaResource$1/org.apache.tika.server.resource.TikaResource$1/[DefaultParser, pkg.PackageParser]": {
+        "application/x-bzip2/application/vnd.adobe.aftereffects.project/application/vnd.adobe.aftereffects.project/application/x-tar": {
+            "avg": 0.000213623046875
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1": {
+            "avg": 0.0068359375
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, code.SourceCodeParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]/[DefaultParser, asm.ClassParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1/text/x-java-source/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm/application/java-vm": {
+            "avg": 0.00026796973518284994
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, executable.ExecutableParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, executable.ExecutableParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]": {
+        "application/x-archive/text/plain; charset=ISO-8859-1/[application/x-executable, application/x-executable]/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/application/x-tar/application/gzip/[application/x-executable, application/x-executable]/application/x-tar/application/gzip": {
+            "avg": 0.00027513680413316624
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.CompressorParser]": {
+        "application/x-tar/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32BE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip": {
+            "avg": 0.00022062183841026206
+        }, 
+        "application/x-tar/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip/text/plain; charset=UTF-32LE/application/gzip": {
+            "avg": 0.00021569986903936523
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1": {
+            "avg": 0.000390625
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, executable.ExecutableParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, executable.ExecutableParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]": {
+        "application/x-archive/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/[application/x-executable, application/x-executable]/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/application/x-tar/application/gzip/[application/x-executable, application/x-executable]/application/x-tar/application/gzip": {
+            "avg": 0.00027513680413316624
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, executable.ExecutableParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]": {
+        "application/x-archive/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/[application/x-executable, application/x-executable]/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/application/x-tar/application/gzip/application/x-tar/application/gzip": {
+            "avg": 0.00029487893581468496
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1": {
+            "avg": 0.0003155048076923077
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1": {
+            "avg": 0.00068359375
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, pkg.PackageParser]/[DefaultParser, pkg.CompressorParser]/[DefaultParser, pkg.CompressorParser]": {
+        "application/x-archive/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/application/x-tar/application/gzip/application/gzip": {
+            "avg": 0.0002523468254769355
+        }
+    }, 
+    "DefaultParser/pkg.PackageParser/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/org.apache.tika.server.resource.TikaResource$1/org.apache.tika.server.resource.TikaResource$1/org.apache.tika.server.resource.TikaResource$1/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]/[DefaultParser, txt.TXTParser]": {
+        "application/x-tar/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/application/octet-stream/application/octet-stream/application/octet-stream/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1/text/plain; charset=ISO-8859-1": {
+            "avg": 0.00048828125
+        }
+    }, 
+    "DefaultParser/pkg.RarParser/[DefaultParser, txt.TXTParser]": {
+        "application/x-rar-compressed/text/plain; charset=UTF-8": {
+            "avg": 0.000213623046875
+        }
+    }, 
+    "DefaultParser/txt.TXTParser": {
+        "text/plain; charset=Big5": {
+            "avg": 0.00015369358030004222
+        }, 
+        "text/plain; charset=GB18030": {
+            "avg": 0.0003748055696107644
+        }, 
+        "text/plain; charset=GB2312": {
+            "avg": 0.000706364342727979
+        }, 
+        "text/plain; charset=IBM855": {
+            "avg": 0.003236245954692557
+        }, 
+        "text/plain; charset=IBM866": {
+            "avg": 0.00011716324354723436
+        }, 
+        "text/plain; charset=ISO-8859-1": {
+            "avg": 0.00013928382676705169
+        }, 
+        "text/plain; charset=ISO-8859-15": {
+            "avg": 0.0002293236100122688
+        }, 
+        "text/plain; charset=ISO-8859-2": {
+            "avg": 0.0001665759753023354
+        }, 
+        "text/plain; charset=ISO-8859-6": {
+            "avg": 0.0009199632014719411
+        }, 
+        "text/plain; charset=ISO-8859-7": {
+            "avg": 0.0032404406999351912
+        }, 
+        "text/plain; charset=ISO-8859-8": {
+            "avg": 9.466935780094442e-05
+        }, 
+        "text/plain; charset=Shift_JIS": {
+            "avg": 0.0008386246555648736
+        }, 
+        "text/plain; charset=US-ASCII": {
+            "avg": 0.0005934013766911939
+        }, 
+        "text/plain; charset=UTF-16LE": {
+            "avg": 0.00010532607636667167
+        }, 
+        "text/plain; charset=UTF-8": {
+            "avg": 0.00014446785203371733
+        }, 
+        "text/plain; charset=windows-1251": {
+            "avg": 0.00010869092648145733
+        }, 
+        "text/plain; charset=windows-1252": {
+            "avg": 0.00010859883411576212
+        }
+    }, 
+    "html.HtmlParser": {
+        "application/dita+xml; format=concept": {
+            "avg": 0.0007202863804457827
+        }, 
+        "application/rdf+xml": {
+            "avg": 0.0004005334644863551
+        }, 
+        "application/vnd.google-earth.kml+xml": {
+            "avg": 9.587056595744779e-05
+        }, 
+        "application/xml": {
+            "avg": 0.000322509593447963
+        }, 
+        "application/xslt+xml": {
+            "avg": 0.000564652738565782
+        }
+    }
+}
