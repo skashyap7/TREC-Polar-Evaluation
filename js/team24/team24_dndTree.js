@@ -26,7 +26,7 @@ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.*/
 
 // Get JSON data
-treeJSON = d3.json("../../data/team24/team24_task10ab.json", function(error, treeData) {
+treeJSON = d3.json("http://skashyap7.github.io/TREC-Polar-Evaluation/data/team24/team24_task10ab.json", function(error, treeData) {
 
     // Calculate total nodes, max label length
     var totalNodes = 0;
