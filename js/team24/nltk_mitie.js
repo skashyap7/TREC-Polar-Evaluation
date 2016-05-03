@@ -1,7 +1,7 @@
 function refreshHzBarChart(){
 
     console.log("entered refreshHzBarChart");
-    d3.json('../../data/team24/files.json', function(error, data) {
+    d3.json('http://skashyap7.github.io/TREC-Polar-Evaluation/data/team24/files.json', function(error, data) {
     if (error) throw error;
 
     var chartWidth       = 600,
